@@ -1,22 +1,22 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@types/glob': ^7.2.0
-  '@types/mocha': ^9.1.1
-  '@types/node': 16.x
-  '@types/vscode': ^1.69.0
-  '@typescript-eslint/eslint-plugin': ^5.30.0
-  '@typescript-eslint/parser': ^5.30.0
-  '@vscode/test-electron': ^2.1.5
-  eslint: ^8.18.0
-  glob: ^8.0.3
-  mocha: ^10.0.0
-  typescript: ^4.7.4
+  '@types/glob': 7.2.0
+  '@types/mocha': 9.1.1
+  '@types/node': ~18.6.3
+  '@types/vscode': 1.69.0
+  '@typescript-eslint/eslint-plugin': 5.32.0
+  '@typescript-eslint/parser': 5.32.0
+  '@vscode/test-electron': 2.1.5
+  eslint: 8.21.0
+  glob: 8.0.3
+  mocha: 10.0.0
+  typescript: 4.7.4
 
 devDependencies:
   '@types/glob': 7.2.0
   '@types/mocha': 9.1.1
-  '@types/node': 16.11.47
+  '@types/node': 18.6.3
   '@types/vscode': 1.69.0
   '@typescript-eslint/eslint-plugin': 5.32.0_iosr3hrei2tubxveewluhu5lhy
   '@typescript-eslint/parser': 5.32.0_qugx7qdu5zevzvxaiqyxfiwquq
@@ -94,7 +94,7 @@ packages:
     resolution: {integrity: sha512-ZUxbzKl0IfJILTS6t7ip5fQQM/J3TJYubDm3nMbgubNNYS62eXeUpoLUC8/7fJNiFYHTrGPQn7hspDUzIHX3UA==}
     dependencies:
       '@types/minimatch': 3.0.5
-      '@types/node': 16.11.47
+      '@types/node': 18.6.3
     dev: true
 
   /@types/json-schema/7.0.11:
@@ -109,8 +109,8 @@ packages:
     resolution: {integrity: sha512-Z61JK7DKDtdKTWwLeElSEBcWGRLY8g95ic5FoQqI9CMx0ns/Ghep3B4DfcEimiKMvtamNVULVNKEsiwV3aQmXw==}
     dev: true
 
-  /@types/node/16.11.47:
-    resolution: {integrity: sha512-fpP+jk2zJ4VW66+wAMFoBJlx1bxmBKx4DUFf68UHgdGCOuyUTDlLWqsaNPJh7xhNDykyJ9eIzAygilP/4WoN8g==}
+  /@types/node/18.6.3:
+    resolution: {integrity: sha512-6qKpDtoaYLM+5+AFChLhHermMQxc3TOEFIDzrZLPRGHPrLEwqFkkT5Kx3ju05g6X7uDPazz3jHbKPX0KzCjntg==}
     dev: true
 
   /@types/vscode/1.69.0:
