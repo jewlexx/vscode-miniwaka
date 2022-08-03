@@ -6,6 +6,7 @@
   "categories": [
     "Other"
   ],
+  "license": "MIT",
   "main": "./out/extension.js",
   "scripts": {
     "compile": "tsc -p ./",
